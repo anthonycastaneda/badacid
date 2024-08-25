@@ -72,19 +72,9 @@ copyright = "&copy;2024 Bad Acid"
         text = "Instagram"
         url = "https://www.instagram.com/badacidatx/"
 
-        [[params.links.list2.link]]
-        text = "booking@badacid.org"
-        url = "mailto:booking@badacid.org"
 
-        [[params.links.list2.link]]
-        text = "media@badacid.org"
-        url = "mailto:media@badacid.org"
 
-        [[params.links.list2.link]]
-        text = "merch@badacid.org"
-        url = "mailto:merch@badacid.org"
 
-        
 [server]
 [[server.headers]]
     for = '/**'
