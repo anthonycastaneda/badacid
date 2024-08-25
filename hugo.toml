@@ -30,6 +30,9 @@ copyright = "&copy;2024 Bad Acid"
   favicon = "images/favicon.ico"
 
   # Section - Visual
+[params.custom.css]
+  enable = true
+  
   [params.visual]
 
     # Image
@@ -71,7 +74,18 @@ copyright = "&copy;2024 Bad Acid"
       [[params.links.list2.link]]
         text = "Instagram"
         url = "https://www.instagram.com/badacidatx/"
+        
+        [[params.links.list2.link]]
+        text = "booking@badacid.org"
+        url = "https://badacid.org/"
 
+        [[params.links.list2.link]]
+        text = "media@badacid.org"
+        url = "https://badacid.org/"
+
+        [[params.links.list2.link]]
+        text = "merch@badacid.org"
+        url = "https://badacid.org/"
 
 
 

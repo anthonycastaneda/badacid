@@ -1,0 +1,44 @@
+@media screen {
+  body.page-template-page-fullsingle-split {
+    background-color: #000000;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 33px;
+    letter-spacing: -0.2px;
+    color: #848d96;
+    animation: fadein 2s;
+  }
+}
+
+@media screen {
+  .split-intro h1 {
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 16px;
+    margin-bottom: 40px;
+    letter-spacing: 0.4px;
+    color: #ff0000;
+  }
+}
+
+@media screen {
+  .split-lists .split-list ul li a:hover {
+    color: #ff0000;
+    transition-duration: 0.1s;
+  }
+}
+
+@media screen {
+  .split-lists .split-list h3 {
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 11px;
+    margin-bottom: 31px;
+    color: #83878a;
+    letter-spacing: 2px;
+    opacity: 0.5;
+  }
+}
