@@ -310,7 +310,7 @@ body.page-template-page-fullsingle-split {
         transition-duration: 0.1s; }
 
 .split-credit {
-  opacity: 0.0; }
+  opacity: 0.4; }
   .split-credit p {
     font-size: 12px;
     line-height: 14px; }
