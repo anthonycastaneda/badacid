@@ -4,3 +4,4 @@ Thumbs.db
 public/
 _gen/
 public/index.html
+static/.DS_Store
